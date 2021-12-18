@@ -1,0 +1,25 @@
+                                                      Today: 96,43,030
+
+#Total Vaccination Doses ...
+62,12,45,217
+
+Dose 1                       Dose 2
+48,04,87,170                 14,07,58,047
+
+
+
+#Sites Conducting Vaccination 
+63,253
+
+Government                    Private
+59,684                        3,569
+
+
+
+                                                    Today: 74,53,079
+
+#Total Registrations...
+54,81,07,925
+
+Age 18-44                     Age 45+
+30,82,90,193                  23,98,17,732 
